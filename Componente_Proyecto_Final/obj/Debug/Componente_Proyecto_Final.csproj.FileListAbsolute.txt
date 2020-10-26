@@ -1,0 +1,7 @@
+C:\Users\fcoja\source\repos\Componente_Proyecto_Final\Componente_Proyecto_Final\bin\Debug\Componente_Proyecto_Final.dll
+C:\Users\fcoja\source\repos\Componente_Proyecto_Final\Componente_Proyecto_Final\bin\Debug\Componente_Proyecto_Final.pdb
+C:\Users\fcoja\source\repos\Componente_Proyecto_Final\Componente_Proyecto_Final\obj\Debug\Componente_Proyecto_Final.csprojAssemblyReference.cache
+C:\Users\fcoja\source\repos\Componente_Proyecto_Final\Componente_Proyecto_Final\obj\Debug\Componente_Proyecto_Final.UserControl1.resources
+C:\Users\fcoja\source\repos\Componente_Proyecto_Final\Componente_Proyecto_Final\obj\Debug\Componente_Proyecto_Final.csproj.GenerateResource.cache
+C:\Users\fcoja\source\repos\Componente_Proyecto_Final\Componente_Proyecto_Final\obj\Debug\Componente_Proyecto_Final.dll
+C:\Users\fcoja\source\repos\Componente_Proyecto_Final\Componente_Proyecto_Final\obj\Debug\Componente_Proyecto_Final.pdb
